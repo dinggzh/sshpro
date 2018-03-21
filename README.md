@@ -1,2 +1,3 @@
 # sshpro
-used to practise java konwledge
+used to practise java knowledge.
+use SpringMVC , mybatis, mysql
